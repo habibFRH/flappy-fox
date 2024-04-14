@@ -1,0 +1,11 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    /* background-color  */
+   
+    background-image: url( " https://cdn.mos.cms.futurecdn.net/EFXSes9UCfsyRVoNeQ2ZTB-970-80.png");
+  
+}
